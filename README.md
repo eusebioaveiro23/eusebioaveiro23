@@ -20,7 +20,7 @@
 
 📋 roles en el ámbito: desarrollador... programador freelance... y en un futuro quién sabe 🤔
 
-📧 **Contacto:** thealphacompanyy@gmail.com
+📧 **Contacto:** eusebiohilarionaveiroroman@gmail.com  
 
 ---
 
