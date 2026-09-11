@@ -1,109 +1,170 @@
-# Hola 👋 soy Eusebio Aveiro / unsimpleDev ✨
+<h1 align="center">Hola 👋, soy Eusebio Aveiro ✨</h1>
 
-<div align="center">
-  
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eusebioaveiro/](https://www.linkedin.com/in/eusebio-hilarion-aveiro-rom%C3%A1n-404149436/))
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eusebiohilarionaveiroroman@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/eusebio-hilarion-aveiro-rom%C3%A1n-404149436/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:eusebiohilarionaveiroroman@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-</div>
+<br>
 
-## Sobre mi 😄
-
-🎓 **INGENIERO EN INFORMÁTICA**
-
-📚 **PEQUEÑÍSIMO CREADOR DE CONTENIDO** que intenta trasmitir sus conocimientos 📚 a través de las redes en base a mucho estudio 😴 y experiencia
-
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 6 para no desclavar mi edad 🤣)
-
-📋 roles en el ámbito: desarrollador... programador freelance... y en un futuro quién sabe 🤔
-
-📧 **Contacto:** eusebiohilarionaveiroroman@gmail.com  
-
----
-
-
-</div>
-
----
-
-## Tecnologías conocidas 🛠️
+<h2 align="center">👨🏻‍💻 Sobre mí</h2>
 
 <div align="center">
 
-### Lenguajes de Programación
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+🎓 Estudiante de Ingeniería Informática  
+💻 Desarrollador Web / Full Stack en formación  
+🐍 Interesado en Python y desarrollo de software  
+🌐 Desarrollo de páginas web con HTML, CSS y JavaScript  
+🗄️ Trabajando con SQL y PostgreSQL  
+🚀 Siempre aprendiendo y desarrollando nuevos proyectos  
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Herramientas & Otros
-
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
+📍 Luque, Paraguay  
+📫 Contacto: **eusebiohilarionaveiroroman@gmail.com**
 
 </div>
 
----
+<br>
 
-## GitHub Stats 📊
+<h2 align="center">🛠️ Tecnologías y herramientas</h2>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unsimpledev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f85d7f&icon_color=f8d866&text_color=a7b5c5)
+<h3>🌐 Frontend</h3>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=true&background=0d1117&stroke=f85d7f&ring=f85d7f&fire=f8d866&currStreakLabel=f85d7f&sideNums=a7b5c5&currStreakNum=a7b5c5&dates=a7b5c5&sideLabels=a7b5c5)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=light" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unsimpledev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f85d7f&text_color=a7b5c5)
+<h3>⚙️ Backend y programación</h3>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,cpp&theme=light" />
+</a>
+
+<h3>🗄️ Bases de datos</h3>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=light" />
+</a>
+
+<h3>🔧 Herramientas</h3>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
+</a>
 
 </div>
 
----
+<br>
 
-## GitHub 🏆
+<h2 align="center">📚 Actualmente aprendiendo</h2>
 
 <div align="center">
 
-### unsimpleDev's GitHub Stats
-- 📊 **Total Stars Earned:** 6
-- 🔄 **Total Commits (2023):** 30
-- 📝 **Total PRs:** 0
-- 🐛 **Total Issues:** 0
-- 👥 **Contributed to (last year):** 0
-
-### Actividad Reciente
-- 🔥 **Current Streak:** 2 días
-- 📅 **Total Contributions:** 40
-- 📊 **Longest Streak:** 2 días
+🔹 Desarrollo Full Stack  
+🔹 Bases de datos y SQL  
+🔹 Desarrollo de aplicaciones  
+🔹 Estructuras de datos y algoritmos  
+🔹 Buenas prácticas de programación  
+🔹 Control de versiones con Git y GitHub  
 
 </div>
 
----
+<br>
 
-## Lenguajes más utilizados 💻
+<h2 align="center">🚀 Proyectos destacados</h2>
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-45%25-orange?style=flat-square)
-![HTML](https://img.shields.io/badge/HTML-30%25-red?style=flat-square)
-![Python](https://img.shields.io/badge/Python-25%25-blue?style=flat-square)
+### 🚗 Autos Ña Juana
 
+Página web desarrollada utilizando **HTML, CSS y JavaScript**, con diseño responsivo, navegación, animaciones y diferentes secciones orientadas a la presentación de vehículos.
+
+### 📦 Sistema de Gestión de Inventarios
+
+Aplicación desarrollada en **Python** para gestionar clientes, productos y ventas de un minimercado, utilizando menús interactivos y una estructura modular.
+
+### 🛒 Sistema de Gestión de Supermercado
+
+Proyecto académico desarrollado utilizando **SQL y PostgreSQL**, incluyendo diseño de base de datos, tablas, relaciones y gestión de información.
 
 </div>
+
+<br>
+
+<h2 align="center">🏆 Logros</h2>
+
+<div align="center">
+
+🥇 **Campeón Internacional de Robótica – Chile 2022**
+
+Participación y liderazgo de un equipo en el diseño y programación de un robot competitivo, desarrollando soluciones de hardware y software que permitieron obtener el primer puesto.
+
+📜 **Certificado en Creación de Páginas Web – MITIC**
+
+</div>
+
+<br>
+
+<h2 align="center">💡 Aptitudes</h2>
+
+<div align="center">
+
+🧠 Pensamiento lógico y resolución de problemas  
+🤝 Trabajo en equipo  
+👨🏻‍💼 Liderazgo  
+📚 Aprendizaje continuo  
+🔄 Adaptabilidad  
+💬 Comunicación  
+
+</div>
+
+<br>
+
+<h2 align="center">📊 Mis estadísticas</h2>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+
+<br><br>
+
+<a href="https://github.com/eusebioaveiro23">
+
+<img height="180em" width="42%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eusebioaveiro23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+<img height="180em" width="42%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eusebioaveiro23&layout=compact&langs_count=8&theme=algolia"/>
+
+</a>
+
+</div>
+
+<br>
+
+<div>
+    <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
+    
+
+<br>
 
 ---
 
-<div align="center">
-  
-### ¡Gracias por visitar mi perfil! 🚀
-*"La programación no es solo código, es resolver problemas creativamente"* 💡
+<h3 align="center">
+  ⭐ Gracias por visitar mi perfil
+</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=unsimpledev&color=brightgreen&style=flat-square)
+<p align="center">
+  Siempre aprendiendo, construyendo y mejorando 🚀
+</p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/eusebioaveiro23">
+    <img src="https://img.shields.io/badge/GitHub-eusebioaveiro23-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
