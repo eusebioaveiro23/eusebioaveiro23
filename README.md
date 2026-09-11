@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Eusebio Aveiro ✨</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eusebio-hilarion-aveiro-rom%C3%A1n-404149436/" target="_blank">
+  <a href="https://www.linkedin.com/in/eusebio-aveiro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:eusebiohilarionaveiroroman@gmail.com" target="_blank">
